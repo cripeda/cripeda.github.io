@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Centre de Ressources sur les Idées et les Pratiques d'Extrême Droite & Associées
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+email: pierre.bezoukhov@riseup.net
+copyright_name: CRIPEDA
+description: Le Centre de Ressources sur les Idées et les Pratiques d'Extrême-Droite & Associées (CRIPEDA) a été créé fin 2014 pour comprendre et s'opposer à l'extrême-droite. Il regroupe des citoyen(e)s préoccupé(e)s par la résurgence en France de l'extrême-droite et de ses idées, y compris au sein de partis généralement considérés comme démocratiques.baseurl: "/startbootstrap-clean-blog-jekyll"
+baseurl: ""
+url: "http://www.cripeda.org"
+twitter_username: cripeda
+github_username:  cripeda
+facebook_username:  cripeda.france
+email_username:  pierre.bezoukhov@riseup.net
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
