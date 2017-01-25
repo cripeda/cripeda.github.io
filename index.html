@@ -18,7 +18,7 @@ description:    "Analyser et combattre la diffusion des idées d'extrême droite
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Publié par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} le {{ post.date | date: "%-d %m %Y" }}</p>
+    <p class="post-meta">Publié par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} le {{ post.date | date: "%-d/%m/%Y" }}</p>
 </div>
 <hr>
 {% endfor %}
