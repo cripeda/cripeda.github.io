@@ -1,4 +1,12 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+# Site web du CRIPEDA
+
+Les sources de ce site sont en libre accès, mais son contenu reste soumis au droit d'auteur. Si vous souhaitez utiliser le contenu des pages `index.html`, `about.md`, `contact.md` ainsi qu'une quelconque page dans le répertoire `_posts`, merci de nous adresser un e-mail à l'adresse suivante : <contact@cripeda.org>
+
+Ci-dessous se trouve le fichier `README.md` du thème Jekyll utilisé : <https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll>
+
+---
+
+##Clean Blog by Start Bootstrap - Jekyll Version
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
