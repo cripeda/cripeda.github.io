@@ -99,29 +99,9 @@ L’intolérance est au fondement de l’Action française.
 
 ### L’intolérance
 
-Dans la France du XXème siècle, les personnes et les courants politiques ou
-culturels qui ne se conforment pas au modèle brandi par l’Action française
-(royaliste autoritaire, catholique intransigeant, vomissant la démocratie...) sont
-légions. Et ils sont effectivement légions à être non seulement critiqués mais
-couverts d’insultes et accusés d’ourdir les projets les plus criminels contre la
-France et les Français. Rappelons deux cas, canoniques dans le corpus de
-l’Action française. Les romantiques (ainsi que tous ceux qui peuvent y être
-associés), en rupture avec le classicisme cher à Maurras, sont accusés d’être une
-forme d’ _« invasion étrangère »_<sup>[39](#footnote-39)</sup>. Quant aux francs-maçons, leur anticléricalisme
-est lu comme une _« ardente haine militante pour le prêtre catholique »_, leur
-esprit critique comme une _« entreprise de destruction »_ génératrice de la pire
-d’entre elles selon Maurras : la Révolution française<sup>[40](#footnote-40)</sup>.
+Dans la France du XXème siècle, les personnes et les courants politiques ou culturels qui ne se conforment pas au modèle brandi par l’Action française (royaliste autoritaire, catholique intransigeant, vomissant la démocratie...) sont légions. Et ils sont effectivement légions à être non seulement critiqués mais couverts d’insultes et accusés d’ourdir les projets les plus criminels contre la France et les Français. Rappelons deux cas, canoniques dans le corpus de l’Action française. Les romantiques (ainsi que tous ceux qui peuvent y être associés), en rupture avec le classicisme cher à Maurras, sont accusés d’être une forme d’ _« invasion étrangère »_<sup>[39](#footnote-39)</sup>. Quant aux francs-maçons, leur anticléricalisme est lu comme une _« ardente haine militante pour le prêtre catholique »_, leur esprit critique comme une _« entreprise de destruction »_ génératrice de la pire d’entre elles selon Maurras : la Révolution française<sup>[40](#footnote-40)</sup>.
 
-Cette intolérance furieuse, transformant tout écart aux dogmes maurrassiens en
-crime inexpiable, ne se lit pas seulement dans les diatribes acerbes du leader
-royaliste et de ses amis. Elle transparaît tout autant dans leurs prises de position
-d’apparence les plus conciliantes. Quelques protestants échappent à cette
-vindicte. Faisant exception, ils sont tolérés. Qu’ont-ils de particulier ? Ils sont
-_« patriotes »_ (c’est-à-dire nationalistes), _« royalistes »_, ils ont rejoint L’Action
-française... Maurras veut bien reconnaître une personne autre lorsqu’elle s’est
-dépouillée de sa singularité, de son altérité, lorsqu’elle est devenue exactement
-comme lui. La tolérance de Maurras s’arrête à lui-même. Sa manière d’être
-tolérant est un comble d’intolérance.
+Cette intolérance furieuse, transformant tout écart aux dogmes maurrassiens en crime inexpiable, ne se lit pas seulement dans les diatribes acerbes du leader royaliste et de ses amis. Elle transparaît tout autant dans leurs prises de position d’apparence les plus conciliantes. Quelques protestants échappent à cette vindicte. Faisant exception, ils sont tolérés. Qu’ont-ils de particulier ? Ils sont _« patriotes »_ (c’est-à-dire nationalistes), _« royalistes »_, ils ont rejoint L’Action française... Maurras veut bien reconnaître une personne autre lorsqu’elle s’est dépouillée de sa singularité, de son altérité, lorsqu’elle est devenue exactement comme lui. La tolérance de Maurras s’arrête à lui-même. Sa manière d’être tolérant est un comble d’intolérance.
 
 ### La haine des Juifs
 
@@ -159,58 +139,113 @@ Haine de la démocratie, haine de l’étranger, haine du différent<sup>[56](#f
 ## Notes
 
 <a name="footnote-1">1</a>: _Nouvelle librairie nationale_, 1909, p.387. Une partie de ces textes a paru initialement dans la _Gazette de France_ de 1900 à 1903.
+
 <a name="footnote-2">2</a>: Commentaire de Maurras sur la _juste et violente figure de cette belle jardinière_, _Enquête sur la monarchie_, p.385-386
+
 <a name="footnote-3">3</a>: _L’Action française_ (dorénavant _A.F._), 13 juillet 1916 et 20 novembre 1928. Voir l’article « République » dans Charles Maurras, _Dictionnaire politique et critique_, textes établis par les soins de Pierre Chardon, 5 tomes de 1931 à 1934
+
 <a name="footnote-4">4</a>: _Enquête sur la monarchie_, p.549. _Nous ne croyons pas à la souveraineté du peuple_, Charles Maurras, Mes idées politiques, Editions Albatros, 1993, p. 187. Première édition 1937
+
 <a name="footnote-5">5</a>: _Mes idées politiques_, p.45
+
 <a name="footnote-6">6</a>: _Enquête sur la monarchie_, p.547
+
 <a name="footnote-7">7</a>: _ibid_, p.549
+
 <a name="footnote-8">8</a>: _Dans une société bien faite, l’individu doit accepter la loi de l’espèce, non l’espèce périr de la volonté des individus_, _Mes idées politiques_, p. 174
+
 <a name="footnote-9">9</a>: _Qu’est-ce qu’un gouvernement de la République ? le gouvernement des partis, ou rien. Qu’est-ce qu’un parti ? une division, un partage_, _ibid_, p.227. _Une république où coexistent divers courants politiques entretient fatalement un esprit de lutte intérieure, de division intérieure_, _ibid_, p.218
+
 <a name="footnote-10">10</a>: _L’Action française_ lui opposera la « corporation », parfaite conciliation des classes où l’insubordination ouvrière sera, espère-t-on, exclue, _ibid_, p.52
+
 <a name="footnote-11">11</a>: _Enquête sur la monarchie_, p.262
+
 <a name="footnote-12">12</a>: De nombreux exemples ci-dessous
+
 <a name="footnote-13">13</a>: _Cet empirisme (organisateur) enseigne et professe (...)que l’ordre des sociétés, de quelque façon qu’on l’obtienne, importe plus que la liberté des personnes puisque cela est le fondement de ceci._ Maurras, cité par Laurent Joly, _Naissance de L’Action française_, Grasset, 2015, p.174
+
 <a name="footnote-14">14</a>: _Ce goût de l’égalité, partant de la médiocrité, partant d’une certaine bassesse, qui est propre aux démocraties..._, _Gazette de France_, 11 décembre 1902 ; _La nature des choses a fait de l’inégalité la condition même de la vie, de l’ordre, du progrès._ _Gazette de France_, 14 septembre 1905
+
 <a name="footnote-15">15</a>: Cité par Laurent Joly, _Naissance de L’Action française_, p .120
+
 <a name="footnote-16">16</a>: _Mes idées politiques_, p.94
+
 <a name="footnote-17">17</a>: _Enquête sur la monarchie_, p.538
+
 <a name="footnote-18">18</a>: _ibid_
+
 <a name="footnote-19">19</a>: _ibid_, p.554
+
 <a name="footnote-20">20</a>: Eugen Weber, _L’Action française_, Fayard, 1985, p.490, 1ère édition (1962)
+
 <a name="footnote-21">21</a>: _ibid_, p.164
+
 <a name="footnote-22">22</a>: _ibid_, p.42
+
 <a name="footnote-23">23</a>: Jean-Denis Bredin, _Joseph Caillaux_, Hachette, 1980. L’auteur rappelle le détail de ce lynchage politico-médiatique alimenté pendant des mois par des dénonciations fracassantes et mensongères, et le rôle déterminant qu’y a joué L’Action française.
+
 <a name="footnote-24">24</a>: Eugen Weber, _L’Action française_, p.72-73. Victor Basch, président de la Ligue des droits de l’homme et Juif, doit être protégé par la police en 1921, _ibid_, p.208, en 1930 il sera blessé par les Camelots du roi lors d’un meeting et en 1944 assassiné, ainsi que sa femme, par des miliciens dont certains étaient issus de L’Action française, Françoise Basch, _Victor Basch, un intellectuel cosmopolite (1863-1944)_, Berg international, 2000
+
 <a name="footnote-25">25</a>: _ibid_, p.163
+
 <a name="footnote-26">26</a>: _ibid_, p.208-209-233 _Même « Ben Hur » fut attaqué sous le chef qu’il était trop favorable aux Juifs et trop anti-romain_
+
 <a name="footnote-27">27</a>: Un exemple rappelé par Eugen Weber : Marc Sangnier, Maurice Violette et Marius Moutet, attaqués par les Camelots, furent battus, enduits de goudron ou d’encre d’imprimerie ; Sangnier échappa de justesse à une purge à l’huile de ricin et madame Violette, qui accompagnait son mari, fut brutalisée, _ibid_, p.167
+
 <a name="footnote-28">28</a>: _ibid_, p.186-400-401
+
 <a name="footnote-29">29</a>: _Enquête sur la monarchie_, p.386
+
 <a name="footnote-30">30</a>: Charles Maurras, _Dictionnaire politique et critique_, article _Allemagne_
+
 <a name="footnote-31">31</a>: Dans _A.F._, 15 septembre 1907, Maurras pourfend _l’esprit du protestantisme où l’autorité religieuse vient d’en bas et peut par conséquent se dégager d’une assemblée de simples laïques. Idée absolument contraire aux canons du catholicisme où l’autorité religieuse vient d’en haut_.
+
 <a name="footnote-32">32</a>: _A.F._, 4 novembre 1909
+
 <a name="footnote-33">33</a>: _La moyenne des protestants français (...) ne tend qu’à détruire plus sûrement, en les détruisant par degrés, tout ordre, toute autorité et toute unité_, _A.F._, 19 mai 1908
+
 <a name="footnote-34">34</a>: _A.F._, 23 mars 1925
+
 <a name="footnote-35">35</a>: Charles Maurras, _Au signe de Flore_, Bernard Grasset, 1933, p.156
+
 <a name="footnote-36">36</a>: _ibid_, p.183
+
 <a name="footnote-37">37</a>: _ibid_, p.213
+
 <a name="footnote-38">38</a>: _ibid_, p.160
+
 <a name="footnote-39">39</a>: _Le romantisme se présente à l’historien impartial en premier lieu comme une rupture, en deuxième lieu comme une invasion étrangère_, _Gazette de France_, 3 juillet 1898
+
 <a name="footnote-40">40</a>: _A.F._, 16 mars 1929
+
 <a name="footnote-41">41</a>:La même attitude peut s’observer à l’égard des francs-maçons, _Nous avons toujours tenu le maçon pour le plus dangereux de tous, puisque c’est dans la loge que se syndique tout ce que la synagogue et le monde métèque comptent de moins français_, Charles Maurras, _La seule France_, Ladranchet,1941
+
 <a name="footnote-42">42</a>: _ibid_, p.196
+
 <a name="footnote-43">43</a>: _ibid_
+
 <a name="footnote-44">44</a>: _ibid_, p.200
+
 <a name="footnote-45">45</a>: _ibid_, p.199
+
 <a name="footnote-46">46</a>: _ibid_, p.200
+
 <a name="footnote-47">47</a>: Cité par Eugen Weber, _L’Action française_, p.516
+
 <a name="footnote-48">48</a>: _ibid_, p.517
+
 <a name="footnote-49">49</a>: A titre individuel certains membres de L’Action française ont participé à la Résistance mais ils n’ont jamais été soutenu par le mouvement qui appelait, au contraire, à sa répression.
+
 <a name="footnote-50">50</a>: Comme dans le cas des protestants il y a quelques rares exceptions qui n’infirment en rien la règle selon laquelle un Juif a un nez crochu, qu’ il est cupide, etc. Ces « bons Juifs » ont totalement renoncé à tout ce qui constituait leur singularité, et leur judaïté. Ils sont devenus de purs maurrassiens... Voir, par exemple, le cas du bon Juif Pierre David dans Charles Maurras, _La dentelle du rempart_, Grasset, 1937, p.303
+
 <a name="footnote-51">51</a>: Des matelots en grande majorité français et tous appartenant à quelqu’une des grandes races qui depuis 30 siècles dominent la Méditerranée, A.F. 8avril 1910
+
 <a name="footnote-52">52</a>: _ibid_
+
 <a name="footnote-53">53</a>: _ibid_
+
 <a name="footnote-54">54</a>: Libération, 12 février 2016
+
 <a name="footnote-55">55</a>: _ibid_
+
 <a name="footnote-56">56</a>: Un certain nombre de militants ont rejoint le mouvement au cours des manifestations contre le mariage homosexuel, _ibid_
